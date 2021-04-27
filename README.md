@@ -6,7 +6,7 @@ First, install the necessary dependencies for building kernel modules.
 
 On Ubuntu, this is accomplished by running `sudo apt install linux-headers-generic build-essential gcc git`
 
-Clone this repository by running `git clone https://github.com/intrepidcs/intrepid-socketcan-kernel-module.git`
+Clone this repository by running `git clone https://github.com/rish3119/intrepid-socketcan-kernel-module.git`
 
 Change into the resulting clone, `cd intrepid-socketcan-kernel-module`
 
